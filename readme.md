@@ -6,7 +6,7 @@
 
 [Demo](http://totoraj930.github.io/jquery-simple-animation/demo/)
 
-[Download](http://totoraj930.github.io/jquery-simple-animation/releases/)
+[Download](https://github.com/totoraj930/jquery-simple-animation/releases/)
 
 ## 使い方(How to use)
 

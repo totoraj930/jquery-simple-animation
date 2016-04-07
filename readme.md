@@ -88,13 +88,6 @@ $(".info").s_animation({
 * reset
   - 要素についているSimple Animation用のclassをすべて削除する
 
-
-#### 継続時間(Duration Time)
-
-* slow
-* normal
-* fast
-
 ## 著者(Author)
 **Reona Oshima (totoraj)**
 * [http://totoraj.net](http://totoraj.net/)

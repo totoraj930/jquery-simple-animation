@@ -19,8 +19,6 @@ $.fn.s_animation = function (options) {
 	if (!isFinite(setting.duration) || setting.duration < 100) {
 		setting.duration = 400;
 	}
-	console.log(setting.duration);
-
 
 	// 定数定義
 	var SHOW_MODES = [

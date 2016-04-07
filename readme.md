@@ -4,9 +4,9 @@
 
 アニメーションといっても表示と非表示を切り替えるものだけです。
 
-[Demo](http://totoraj930.github.io/jquery-simple-animation)
+[Demo](http://totoraj930.github.io/jquery-simple-animation/demo/)
 
-[Download](http://totoraj930.github.io/jquery-simple-animation/)
+[Download](http://totoraj930.github.io/jquery-simple-animation/releases/)
 
 ## 使い方(How to use)
 
